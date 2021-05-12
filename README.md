@@ -13,37 +13,16 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gotham" alt="tankvn" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=dark" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=dark)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=radical" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=merko" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=merko)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gruvbox" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gruvbox)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=tokyonight" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=tokyonight)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=onedark" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=onedark)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=cobalt" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=cobalt)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=synthwave" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=synthwave)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=highcontrast" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=highcontrast)
-
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=dracula" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=dracula)
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gotham" alt="tankvn" />
-![Tankvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gotham)
+<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=radical" alt="tankvn" />
+<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=merko" alt="tankvn" />
+<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gruvbox" alt="tankvn" />
+<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=tokyonight" alt="tankvn" />
+<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=onedark" alt="tankvn" />
+<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=cobalt" alt="tankvn" />
+<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=synthwave" alt="tankvn" />
+<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=highcontrast" alt="tankvn" />
+<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=dracula" alt="tankvn" />
+<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=dark" alt="tankvn" />
+</p>
