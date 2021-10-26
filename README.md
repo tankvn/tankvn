@@ -12,16 +12,35 @@
 
 📈 My GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gotham" alt="tankvn" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=gotham)
+![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=radical" alt="tankvn" />
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=merko" alt="tankvn" />
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gruvbox" alt="tankvn" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=merko)
+![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&count_private=true&line_height=40&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=gruvbox)
+![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=tokyonight" alt="tankvn" />
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=onedark" alt="tankvn" />
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=cobalt" alt="tankvn" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=onedark)
+![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&count_private=true&line_height=40&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=cobalt)
+![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=synthwave)
 <img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=synthwave" alt="tankvn" />
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=highcontrast" alt="tankvn" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=highcontrast)
+![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=highcontrast)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=dracula)
 <img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=dracula" alt="tankvn" />
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=dark" alt="tankvn" />
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=dark)
+![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&count_private=true&line_height=40&theme=dark)
