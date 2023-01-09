@@ -10,8 +10,18 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 My GitHub Stats
+### :zap: 📈 My GitHub Stats
 
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+</tr>
+<table>
+  
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&layout=compact&langs_count=12&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=gotham)
