@@ -48,6 +48,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=gotham)
 ![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gotham)
 
+
+
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=radical" alt="tankvn" />
 
@@ -79,3 +82,4 @@
 ![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&count_private=true&line_height=40&theme=dark)
 
 [<img src="https://i.imgur.com/gtHOc3T.png">](https://youtube.com/c/javascriptmastery)
+-->
