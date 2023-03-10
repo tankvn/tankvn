@@ -45,10 +45,11 @@
   
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&layout=compact&langs_count=12&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=gotham)
-![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gotham)
-
-
+<a href="https://github.com/tankvn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=shades-of-purple&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=shades-of-purple&layout=compact" 
+    alt="JasonTaylorDev GitHub Top Languages" />
+</a>
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=radical)
