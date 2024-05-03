@@ -40,12 +40,6 @@
   <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
 </tr>
 <table>
-  
-<a href="https://github.com/tankvn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=shades-of-purple&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=shades-of-purple&layout=compact" 
-    alt="JasonTaylorDev GitHub Top Languages" />
-</a>
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=radical)
@@ -82,3 +76,13 @@
 -->
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&layout=compact&langs_count=12&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tankvn&theme=merko&border_radius=10)](https://git.io/streak-stats) 
+
+<a href="https://github.com/tankvn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=merko&count_private=true" alt="TAn's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=merko&layout=compact" 
+    alt="TAn GitHub Top Languages" />
+</a>
+
+[![TAn github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tankvn&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
