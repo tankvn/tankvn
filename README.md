@@ -31,7 +31,7 @@
 
 <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
-  <img src="https://profile-counter.glitch.me/oraclebrain/count.svg"/>
+  <img src="https://profile-counter.glitch.me/tankvn/count.svg"/>
 <p align="center">
 
 ### :zap: 📈 My GitHub Stats
