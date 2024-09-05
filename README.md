@@ -34,7 +34,22 @@
   <img src="https://profile-counter.glitch.me/tankvn/count.svg"/>
 <p align="center">
 
-### :zap: 📈 My GitHub Stats
+<details>
+  <summary><b>⛎ My Pet</b></summary>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tankvn/tankvn/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tankvn/tankvn/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tankvn/tankvn/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+</details>
+
+<details>
+  <summary><b>📊 My Github Stats</b></summary>
+
+<h6 align="center">
 
 <table>
 <tr>
@@ -46,41 +61,13 @@
 </tr>
 <table>
 
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=radical" alt="tankvn" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=merko)
-![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&count_private=true&line_height=40&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=gruvbox)
-![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=gruvbox)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=tokyonight" alt="tankvn" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=onedark)
-![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&count_private=true&line_height=40&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=cobalt)
-![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=synthwave)
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=synthwave" alt="tankvn" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=highcontrast)
-![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=highcontrast)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=dracula)
-<img src="https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&theme=dracula" alt="tankvn" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&theme=dark)
-![Top Stats](https://github-readme-stats.vercel.app/api?username=tankvn&show_icons=true&count_private=true&line_height=40&theme=dark)
-
-[<img src="https://i.imgur.com/gtHOc3T.png">](https://youtube.com/c/javascriptmastery)
--->
-
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankvn&layout=compact&langs_count=12&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tankvn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tankvn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tankvn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tankvn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tankvn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tankvn&theme=merko&border_radius=10)](https://git.io/streak-stats) 
 
@@ -91,15 +78,6 @@
 </a>
 
 [![TAn github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tankvn&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</h6>
 
-<details>
-  <summary><b>⛎ My Pet</b></summary>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tankvn/tankvn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tankvn/tankvn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tankvn/tankvn/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
 </details>
