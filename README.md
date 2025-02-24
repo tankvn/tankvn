@@ -12,6 +12,11 @@
   <img src="https://profile-counter.glitch.me/tankvn/count.svg"/>
 <p align="center">
 
+================= Advertisement ================  
+Best AI Music: https://mubert.com/render/pricing?via=beatnc  
+Royalty-Free Music: https://mubert.com/render/pricing?via=beatnc  
+
+
 <details>
   <summary><b>⛎ My Pet</b></summary>
 
